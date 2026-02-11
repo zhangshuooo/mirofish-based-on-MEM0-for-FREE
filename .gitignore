@@ -68,3 +68,6 @@ build/
 backend/uploads/
 backend/data/
 *.log
+
+.github/workflows/
+
